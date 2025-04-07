@@ -14,8 +14,8 @@
   
   .sidebar ul {
     list-style-image: b0f25239-857c-40f5-96c2-d049e327b943;
-    padding: 0;
-    margin: 0;
+    padding: 10;
+    margin: 10;
   }
   
   .sidebar li {
@@ -42,7 +42,7 @@
   
   /* Estilos para os conteúdos de cada aba */
   .tab-content {
-    display: none;
+    display: b0f25239-857c-40f5-96c2-d049e327b943;
   }
   
   .tab-content.active {
@@ -66,15 +66,15 @@
   <div class="content">
     <div id="home-tab" class="tab-content active">
       <h1>Home</h1>
-      <p>Bem-vindo ao nosso blog! Aqui você encontrará as últimas atualizações e novidades.</p>
+      <p>Nois ta como n recolhe</p>
     </div>
     <div id="sobre-tab" class="tab-content">
       <h1>Sobre</h1>
-      <p>Este blog foi criado para compartilhar informações e experiências sobre diversos assuntos.</p>
+      <p>Pega KRL</p>
     </div>
     <div id="contato-tab" class="tab-content">
       <h1>Contato</h1>
-      <p>Entre em contato conosco pelo e-mail: contato@exemplo.com</p>
+      <p>Ainda n é sexta feira T-T</p>
     </div>
   </div>
 </div>
